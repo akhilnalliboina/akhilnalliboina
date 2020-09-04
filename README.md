@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there. I'm Akhil Nalliboina 👋
 
-<!--
-**akhilnalliboina/akhilnalliboina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student 👨‍💻 from Siegen, Germany who loves to create web applications 🌐 with focus on User experience.
+I am currently pursuing my Master's in Human-Computer Interaction.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on building web based applications.
+- 🌱 I’m currently learning .NET Core and Angular JS.
+- 👯 I’m looking to collaborate on open source projects.
+- 📫 How to reach me: akhilnalliboina@gmail.com.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack:
+Primary language skills: HTML, CSS, JavaScript, C#, SQL.
+Frameworks: React.Js, Angular.Js, ASP.NET.
+Secondary skills: UX design, Node.Js, Python. 
