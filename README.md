@@ -12,4 +12,4 @@ Languages: HTML, CSS, JavaScript, C#, SQL.
 Frameworks: React.Js, Angular.Js, ASP.NET.  
 Secondary skills: UX design, Node.Js, Python. 
 
-⭐️ From Akhil Nalliboina
+Made with :heart: from Akhil Nalliboina
