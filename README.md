@@ -9,7 +9,7 @@ I'm a student 👨‍💻 from Siegen, Germany who loves to create web applicati
 
 Technology Stack:  
 Languages: HTML, CSS, JavaScript, C#, SQL.  
-Frameworks: React.Js, Angular.Js, ASP.NET.  
+Frameworks: React.Js, ASP.NET core.  
 Secondary skills: UX design, Node.Js, Python. 
 
 Made with :heart: by Akhil Nalliboina from Germany.
