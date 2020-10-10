@@ -3,7 +3,7 @@
 I'm a student 👨‍💻 from Siegen, Germany who loves to create web applications 🌐 with focus on User experience.
 
 - 🔭 I’m currently working on building web based applications.
-- 🌱 I’m currently learning .NET Core and Django.
+- 🌱 I’m currently learning Django.
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me: [Email](akhilnalliboina@gmail.com) [Twitter](https://twitter.com/akhilnlb).
 
