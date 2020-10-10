@@ -8,8 +8,8 @@ I'm a student 👨‍💻 from Siegen, Germany who loves to create web applicati
 - 📫 How to reach me: [Email](akhilnalliboina@gmail.com) [Twitter](https://twitter.com/akhilnlb).
 
 Technology Stack:  
-Languages: JavaScript, TypeScript, C#, SQL.  
-Frameworks/Libraries: Angular, ASP.NET core, React Js.  
-Secondary skills: UX design, Python. 
+Languages: JavaScript, Python, C#, SQL.  
+Frameworks/Libraries: React JS, ASP.NET core.  
+Secondary skills: UX design. 
 
 Made with :heart: by Akhil Nalliboina from Germany.
