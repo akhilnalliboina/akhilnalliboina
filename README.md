@@ -1,6 +1,6 @@
 ### Hi there. I'm Akhil Nalliboina 👋
 
-I'm a student 👨‍💻 from Siegen, Germany who loves to create web applications 🌐 with focus on User experience.
+I'm a student 👨‍💻 from Siegen, Germany who loves to create applications 🌐 with focus on User experience.
 
 - 🔭 I’m currently working on building web based applications.
 - 🌱 I’m currently learning Angular, .NET.
