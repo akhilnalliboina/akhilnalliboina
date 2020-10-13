@@ -9,7 +9,7 @@ I'm a student 👨‍💻 from Siegen, Germany who loves to create web applicati
 
 Technology Stack:  
 Languages: TypeScript, C#, Python, SQL.  
-Frameworks/Libraries: React JS, .NET core, Django.  
+Frameworks/Libraries: React JS, .NET , Django.  
 Secondary skills: UX design
 
 Made with :heart: by Akhil Nalliboina from Germany.
