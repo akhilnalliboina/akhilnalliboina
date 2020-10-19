@@ -7,7 +7,7 @@ I'm a student 👨‍💻 from Siegen, Germany who loves to create applications 
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me: [Email](akhilnalliboina@gmail.com) [Twitter](https://twitter.com/akhilnlb).
 
-Technology Stack: Languages: JavaScript, TypeScript, Python, SQL.
+Technology Stack: Languages: JavaScript, TypeScript, Python, SQL. 
 Frameworks/Libraries: Angular, React JS, Node JS, Django.
 Secondary skills: UX design.
 
