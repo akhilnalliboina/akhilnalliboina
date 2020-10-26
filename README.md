@@ -8,8 +8,8 @@ I'm a student 👨‍💻 from Siegen, Germany who loves to create applications 
 - 📫 How to reach me: [Email](akhilnalliboina@gmail.com) [Twitter](https://twitter.com/akhilnlb).
 
 
-- Languages: JavaScript, TypeScript, Python, SQL
-- Frameworks/Libraries: Angular, React JS, Node JS, Django
+- Languages: JavaScript, TypeScript, C#, SQL
+- Frameworks/Libraries: Angular, React JS, .NET
 - Secondary skills: UX design. 
 
 Made with :heart: by Akhil Nalliboina from Germany.
