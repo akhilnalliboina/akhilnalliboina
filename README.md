@@ -8,10 +8,10 @@ I'm a student 👨‍💻 from Siegen, Germany who loves to create applications 
 - 📫 How to reach me: [Email](akhilnalliboina@gmail.com) [Twitter](https://twitter.com/akhilnlb).
 
 
-Skills: UX design, Web Development. 
-Languages: HTML+CSS, JavaScript, Python, SQL. 
-Frameworks/Libraries: React JS, Django. 
-Secondary skills: C++, Application support. 
+Skills: UX design, Web Development.  
+Languages: HTML+CSS, JavaScript, Python, SQL.  
+Frameworks/Libraries: React JS, Django.  
+Secondary skills: C++, Application support.  
 Go to https://github.com/akhilnalliboina for more details.
 
 
