@@ -10,7 +10,7 @@ I'm a student 👨‍💻 from Siegen, Germany who loves to create applications 
 
 Skills: UX design, Web Development.  
 Languages: HTML+CSS, JavaScript, Python, SQL.  
-Frameworks/Libraries: React JS, Angular, Node JS, Django.  
+Frameworks/Libraries: React JS, Node JS, Django.  
 Secondary skills: C++, Application support.  
 Go to https://github.com/akhilnalliboina for more details.
 
