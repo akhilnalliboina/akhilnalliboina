@@ -1,6 +1,3 @@
-<b>Hi, I'm Akhil Nalliboina</b>
-<br>
-
 <p aligh="left">
   <p>Hey there, welcome!</br>
    I'm Akhil, Software Engineer from <b>Siegen, Germany</b>.</p>
