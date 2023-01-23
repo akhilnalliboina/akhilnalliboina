@@ -1,6 +1,6 @@
 <p aligh="left">
   <p>Hey there, welcome!</br>
-   I'm Akhil, Software Engineer living in <b>Heidelberg, Germany.
+   I'm Akhil, Software Developer living in <b>Heidelberg, Germany.
 </p>
 <h2>👨🏻‍💻 &nbsp;Things I code with</h2>
 <p>
