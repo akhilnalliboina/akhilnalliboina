@@ -18,7 +18,4 @@
   <a href="https://www.linkedin.com/in/akhilnalliboina/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<h2>📈 &nbsp;Some Github Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=akhilnalliboina&show_icons=true&hide=issues,contribs&count_private=true&theme=black-ice&background=3D3D3D&stroke=00E6FE" alt="akhil's GitHub stats" />
-
 ![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akhilnalliboina&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
