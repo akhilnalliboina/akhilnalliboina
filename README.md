@@ -17,5 +17,3 @@
 <p>
   <a href="https://www.linkedin.com/in/akhilnalliboina/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
-![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akhilnalliboina&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
