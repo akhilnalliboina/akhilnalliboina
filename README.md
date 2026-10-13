@@ -3,6 +3,8 @@
 Software developer in Heidelberg, Germany, building AI-native interfaces and developer tools.
 Since 2021 I've worked on the frontend of an AI-native ERP platform at Lensing.ai. MSc in Human-Computer Interaction.
 
+Currently focused on performance work on the product UI, and building small tools around Claude Code.
+
 ## 👨🏻‍💻 &nbsp;Things I code with
 
 <p>
@@ -19,6 +21,8 @@ Since 2021 I've worked on the frontend of an AI-native ERP platform at Lensing.a
   <img alt="AG Grid" src="https://img.shields.io/badge/-AG_Grid-29B6F6?style=flat-square&logoColor=white" />
   <img alt="Ant Design" src="https://img.shields.io/badge/-Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white" />
   <img alt="React Flow" src="https://img.shields.io/badge/-React_Flow-FF0072?style=flat-square&logo=xyflow&logoColor=white" />
+  <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img alt="Lexical" src="https://img.shields.io/badge/-Lexical-4B5563?style=flat-square&logoColor=white" />
 </p>
 
 <p>
@@ -34,6 +38,7 @@ Since 2021 I've worked on the frontend of an AI-native ERP platform at Lensing.a
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img alt="Claude Code" src="https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" />
+  <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" />
 </p>
 
 ## 🛠 &nbsp;Work
