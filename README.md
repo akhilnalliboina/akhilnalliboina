@@ -3,8 +3,6 @@
 Software developer in Heidelberg, Germany, building AI-native interfaces and developer tools.
 Since 2021 I've worked on the frontend of an AI-native ERP platform at Lensing.ai. MSc in Human-Computer Interaction.
 
-Currently focused on performance work on the product UI, and building small tools around Claude Code.
-
 ## 👨🏻‍💻 &nbsp;Things I code with
 
 <p>
