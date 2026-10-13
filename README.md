@@ -16,9 +16,9 @@ Since 2021 I've worked on the frontend of an AI-native ERP platform at Lensing.a
 <p>
   <b>Frontend</b><br/>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="React Flow" src="https://img.shields.io/badge/-React_Flow-FF0072?style=flat-square&logo=xyflow&logoColor=white" />
   <img alt="AG Grid" src="https://img.shields.io/badge/-AG_Grid-29B6F6?style=flat-square&logoColor=white" />
   <img alt="Ant Design" src="https://img.shields.io/badge/-Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white" />
+  <img alt="React Flow" src="https://img.shields.io/badge/-React_Flow-FF0072?style=flat-square&logo=xyflow&logoColor=white" />
 </p>
 
 <p>
