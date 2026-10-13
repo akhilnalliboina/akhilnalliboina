@@ -39,6 +39,7 @@ Currently focused on performance work on the product UI, and building small tool
   <img alt="VS Code" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img alt="Claude Code" src="https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" />
   <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" />
+  <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
   <img alt="React Testing Library" src="https://img.shields.io/badge/-React_Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white" />
 </p>
 
