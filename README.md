@@ -1,19 +1,12 @@
-<p aligh="left">
-  <p>Hey there, welcome!</br>
-   I'm Akhil, Software Developer living in <b>Heidelberg, Germany.
-</p>
-<h2>👨🏻‍💻 &nbsp;Things I code with</h2>
-<p>
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
-  <img alt="TypeScript" src="https://badges.aleen42.com/src/typescript.svg"/>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="NodeJS" src="https://badges.aleen42.com/src/node.svg" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
-</p>
+# Akhil Nalliboina
 
-<h2>🌎 &nbsp;Where to find me</h2>
-<p>
-  <a href="https://www.linkedin.com/in/akhilnalliboina/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+Software developer in Heidelberg, Germany, building AI-native interfaces and developer tools.
+Since 2021 I've worked on the frontend of an AI-native ERP platform at Lensing.ai. MSc in Human-Computer Interaction.
+
+## Work
+
+React and TypeScript, mostly on shared UI infrastructure: a design system published as a package, AI assistant chat and builder screens, and the tools content developers use to build on the platform.
+
+## Find me
+
+[LinkedIn](https://www.linkedin.com/in/akhilnalliboina/)
