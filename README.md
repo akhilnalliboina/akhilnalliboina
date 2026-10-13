@@ -46,9 +46,3 @@ Currently focused on performance work on the product UI, and building small tool
 ## 🛠 &nbsp;Work
 
 React and TypeScript, mostly on shared UI infrastructure: a design system published as a package, AI assistant chat and builder screens, and the tools content developers use to build on the platform.
-
-## 🌎 &nbsp;Where to find me
-
-<p>
-  <a href="https://www.linkedin.com/in/akhilnalliboina/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
