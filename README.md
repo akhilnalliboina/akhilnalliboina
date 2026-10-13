@@ -13,6 +13,12 @@ Since 2021 I've worked on the frontend of an AI-native ERP platform at Lensing.a
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img alt="AG Grid" src="https://img.shields.io/badge/-AG_Grid-29B6F6?style=flat-square&logoColor=white" />
+  <img alt="React Flow" src="https://img.shields.io/badge/-React_Flow-FF0072?style=flat-square&logo=xyflow&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
 </p>
 
 ## 🛠 &nbsp;Work
