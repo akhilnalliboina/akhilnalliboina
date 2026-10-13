@@ -33,6 +33,7 @@ Since 2021 I've worked on the frontend of an AI-native ERP platform at Lensing.a
   <b>Tools</b><br/>
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img alt="Claude Code" src="https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" />
 </p>
 
 ## 🛠 &nbsp;Work
